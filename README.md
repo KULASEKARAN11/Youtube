@@ -1,2 +1,2 @@
 # Youtube
-Recreation of Youtube homepage using HTML,CSS
+Youtube Homepage Clone using HTML,CSS
